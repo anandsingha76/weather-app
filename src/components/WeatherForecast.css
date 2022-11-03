@@ -1,0 +1,85 @@
+.app-body { 
+    display: flex;
+}
+
+.main-container {
+    margin: 0 20px 0 auto;
+    background-color: steelblue;
+    width: 50%;
+    border-radius: 12px;
+    margin-top: 20px;
+    
+    padding: 20px;
+}
+
+.w-area {
+   
+    background-color: steelblue;
+    border-radius: 12px;
+    margin-left: 12px;
+}
+
+.w-area h1 {
+    color: white;
+    text-align: center;
+}
+
+.dex-img {
+    width: 100%;
+    margin-top: 12px;
+    padding: 20px;
+}
+
+.weather-input {
+    text-align: center;
+    font-size: 25px;
+    width: 80%;
+    display: block;
+    margin: auto;
+    
+}
+
+.weather-p {
+    margin-top: 25px;
+    font-size: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 8px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.weather-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.weather-valid {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: beige;
+    background-color: brown;
+    padding: 10px;
+}
+
+.weather-details {
+    margin-bottom: 20px;
+}
+
+#text{
+    color: white;
+    position: relative;
+    top: 200px;
+    right: 400px;
+    font-size: 20px;
+    
+}
+
+
+

@@ -1,0 +1,24 @@
+
+
+.main {
+  margin: 0 15px 0 15px;
+  background-color: steelblue;
+  padding: 32px;
+  opacity: 0.9;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+.main {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.font {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.ft-sz {
+  font-size: x-medium;
+}
